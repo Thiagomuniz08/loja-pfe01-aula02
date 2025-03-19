@@ -1,0 +1,87 @@
+[
+    {
+        "id":1,
+        "produto":"Santos - 2025",
+        "descricao":"Santos 2025",
+        "preco":25.9,
+        "imagem":"https://dasports.com.br/cdn/shop/files/1bbae538.png?v=1738112147"
+    },
+
+    {
+        "id":2,
+        "produto":"Santos - Treino 23/24",
+        "descricao":"Camisa de Treino",
+        "preco":25.9,
+        "imagem":"https://static.santosstore.com.br/produtos/camisa-santos-2324-sn-concentracao-umbro-masculina/26/2IA-4999-226/2IA-4999-226_zoom1.jpg?ts=1695429453&ims=544x"
+    },
+    {
+        "id":3,
+        "produto":"Santos - !998",
+        "descricao":"Santos 1998",
+        "preco":35.9,
+        "imagem":"https://dcdn-us.mitiendanube.com/stores/002/639/234/products/camisa-retro-santos-1998-umbro-branca-e-preta-1-c878ca24071a5e738b16295199039054-480-0.webp"
+    },
+    {
+        "id":4,
+        "produto":"Santos - Péle",
+        "descricao":"Santos Péle",
+        "preco":99.9,
+        "imagem":"https://static.netshoes.com.br/produtos/camisa-santos-ii-1978-retromania-masculina/26/T70-1287-026/T70-1287-026_zoom1.jpg?ts=1694662023"
+    },
+    {
+        "id":5,
+        "produto":"Santos - 2011/12",
+        "descricao":"Santos 2011/12",
+        "preco":129.9,
+        "imagem":"https://acdn-us.mitiendanube.com/stores/002/568/446/products/camisas-31a10a945b252e6e1717297548773486-1024-1024.png"
+    },
+    {
+        "id":6,
+        "produto":"Santos - Charlie Brown Jr",
+        "descricao":"Camisa do Santos - Charlie Brown Jr",
+        "preco":45.9,
+        "imagem":"https://www.mantosupremo.com/cdn/shop/files/IMG-6837_600x_e5d409e7-8937-4b19-bb8a-f7f8ff48abcf_600x.jpg?v=1722896376"
+    },
+    {
+        "id":7,
+        "produto":"Santos - 2024",
+        "descricao":"Camisa Feminina Santos Umbro 2024 Uniforme 3 Licenciada",
+        "preco":89.9,
+        "imagem":"https://cdn.awsli.com.br/600x450/103/103736/produto/3187420/90ff10ff23.jpg"
+    },
+    {
+        "id":8,
+        "produto":"Santos - 2023/24",
+        "descricao":"Camisa Santos Umbro 2023/2024 Uniforme 3 Torcedor - Masculino",
+        "preco":59.9,
+        "imagem":"https://lncimg.lance.com.br/cdn-cgi/image/width=850,quality=75,format=webp/uploads/2023/09/Camisa-Santos-edited-1.png"
+    },
+    {
+        "id":9,
+        "produto":"Santos - 2017",
+        "descricao":"Santos 2017",
+        "preco":29.9,
+        "imagem":"https://images.tcdn.com.br/img/img_prod/311840/camisa_kappa_santos_i_2017_libertadores_36087_1_20210806220228.jpg"
+    },
+    {
+        "id":10,
+        "produto":"Santos - 1993-94",
+        "descricao":"Camiseta-Santos-FC-Retro-Primera-Equipacion-1993-1994",
+        "preco":29.9,
+        "imagem":"https://www.camisetabaratas.com/images/Camiseta-Santos-FC-Retro-Primera-Equipacion-1993-1994_01.jpg"
+    },
+    {
+        "id":11,
+        "produto":"Santos - 2021",
+        "descricao":"Camisa do Santos Outubro Rosa 2021 Umbro",
+        "preco":29.9,
+        "imagem":"https://imgcentauro-a.akamaihd.net/900x900/M0L01JEZ/camisa-do-santos-outubro-rosa-2021-umbro-adulto-img.jpg"
+    },
+    {
+        "id":12,
+        "produto":"Santos - 2023/24",
+        "descricao":"Camisa Umbro Santos FC 2023/24 Away Torcedor - Masculina",
+        "preco":29.9,
+        "imagem":"https://acdn-us.mitiendanube.com/stores/002/152/760/products/camisa-santos-2023-oficial-umbro-branca-preto1-6c52899fb15401485a16841947458043-1024-1024.jpeg"
+    }
+]
